@@ -42,7 +42,7 @@ Nome do anúncio
 Nome do cliente 
 Data de início (DD/MM/YYYY)
 Data de término (DD/MM/YYYY)
-Valor investido(usar ponto:0.0)
+Valor investido(usar ponto: 0.0)
 
 ### Autor
 
