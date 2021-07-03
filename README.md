@@ -8,14 +8,14 @@ Calcular a quantidade máxima de visualizações do anúncio.
 
 ### Pré-requisitos
 
-[Git](https://git-scm.com/).
-[Java JDK](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html).
-[Eclipse](https://www.eclipse.org/downloads/).
+<h4> [Git](https://git-scm.com/).</h4>
+<h4>[Java JDK](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html).</h4>
+<h4>[Eclipse](https://www.eclipse.org/downloads/).</h4>
 
 
 ### Executando o programa:
 
-<h4>1º Passa </h4>
+<h4>1º Passo </h4>
 
 Clone o arquivo no repositório, e abra no bash.
 
@@ -46,8 +46,7 @@ Valor investido(colocar número com ponto pois é tipo Americano, exemplo: 5.50)
 
 ### Autor
 
-linkedin: https://www.linkedin.com/in/ludmila-c%C3%A2mara-dos-reis-28361434/
-E-mail: ludmila.creiis@gmail.com
-Skype: ludmilacr1
-insta: @ludmilacr
-
+<h4>linkedin: https://www.linkedin.com/in/ludmila-c%C3%A2mara-dos-reis-28361434/</h4>
+<h4>E-mail: ludmila.creiis@gmail.com</h4>
+<h4>Skype: ludmilacr1</h4>
+<h4>insta: @ludmilacr</h4>
