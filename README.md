@@ -1,14 +1,6 @@
 <h1 align="center">Desafio Proway calculadora</h1>
 <p align="center">Calculadora de alcance de anúncio</p>
 
-<p align="center">
-  <a href="#objetivo">Objetivo</a> •
-  <a href="#tecnologias">Tecnologias</a> •
-  <a href="#pre-requesitos">Pré-requesitos</a> •  
-  <a href="#autor">Autor</a> •
-</p>
-
-
 ### Objetivo
 
 Calcular a quantidade máxima de visualizações do anúncio.
