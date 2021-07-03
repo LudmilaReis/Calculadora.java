@@ -42,7 +42,7 @@ Nome do anúncio
 Nome do cliente 
 Data de início (DD/MM/YYYY)
 Data de término (DD/MM/YYYY)
-Valor investido(colocar número com ponto pois é tipo Americano, exemplo: 5.50)
+Valor investido(usar ponto:0.0)
 
 ### Autor
 
